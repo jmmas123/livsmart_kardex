@@ -105,7 +105,7 @@ def process_inventory(inventory_type):
         "LATA": {
             "OPL": "INVENTARIO LATA VACIA 2025 BODOPL.xlsx",
             "E": "INVENTARIO LATA VACIA 2025 BODE.xlsx",
-            "MOBU": "INVENTARIO LATA VACIA 2025 BODMOBU.xlsx"
+            "MOBU": "INVENTARIO LATA VACIA 2025 MOBU.xlsx"
         },
         "PREFORMA": {
             "OPL": "INVENTARIO DE PREFORMA 2025 BODOPL.xlsx",
