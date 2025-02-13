@@ -17,7 +17,7 @@ def get_clean_hostname():
 
 def get_base_output_path():
     if os.name == 'nt':
-        return r'C:\Users\josemaria\Downloads'
+        return r'\\192.168.10.18\gem\010 Gerencia de Desarrollo de Negocios\LIVSMART\KARDEX LIVSMART'
     else:
         hostname = get_clean_hostname()
         if hostname == 'JM-MBP':
